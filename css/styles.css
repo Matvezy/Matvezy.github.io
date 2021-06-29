@@ -161,6 +161,16 @@ a:hover {
   text-decoration: underline;
 }
 
+#unclink {
+  color: #17a2b8;
+  text-decoration: none;
+  background-color: transparent;
+}
+#unclik:hover {
+  color: #a88d57;
+  text-decoration: underline;
+}
+
 a:not([href]) {
   color: inherit;
   text-decoration: none;
